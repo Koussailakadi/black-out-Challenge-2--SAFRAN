@@ -11,5 +11,5 @@ présenteront leur projet au Top-Management de Safran Electronics &amp; Defense.
 
 Pour cela nous avons présenté avec l'équipe que j'ai constitué une solution pour le problème civil, et cette solution consiste à
 implémenter un dispositif intelligent connecté directement à notre smartphone et gérer par une application mobile à temps réel.
-ce déspositif est déployable rapidement car on utilise le matériel déja présant sur le smartphone, comme le microphone, gps, ..
+ce déspositif est déployable rapidement car on utilise le matériel déja présent sur le smartphone, comme le microphone, gps, ..
 
